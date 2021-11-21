@@ -5,7 +5,7 @@ const String appName = "BluePrint";
 
 // ? Colors
 const Color primaryColor = Color(0xFF101116);
-const Color secondryColor = Color(0xFF17181D);
+const Color secondryColor = Colors.white10;
 
 // ? Duration
 const Duration defaultAnimationDuration = Duration(milliseconds: 500);

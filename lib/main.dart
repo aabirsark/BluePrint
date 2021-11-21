@@ -19,7 +19,7 @@ class BluePrint extends StatelessWidget {
           brightness: Brightness.dark,
           appBarTheme: const AppBarTheme(
               centerTitle: true,
-              titleTextStyle: TextStyle(color: Colors.white),
+              titleTextStyle: TextStyle(color: Colors.white, fontSize: 18),
               backgroundColor: Colors.transparent,
               elevation: 0.0,
               iconTheme: IconThemeData(color: Colors.white))),
